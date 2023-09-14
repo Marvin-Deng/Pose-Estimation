@@ -1,0 +1,3 @@
+# Feature Extraction from Pose Estimation Data
+
+In this project, we aim to create a dedicated tool to enhance the accuracy of physical examinations conducted by medical professionals, particularly for patients with neurodegenerative diseases affecting their mobility and walking abilities.  We used Google's ML library, Mediapipe, specifically the [pose estimation library](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker) to extract the coordinates of joints and limbs.  Subsequently, we processed this data and computed gait features for use in machine-learning models aimed at aiding in the diagnosis of neurodegenerative diseases.
